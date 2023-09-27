@@ -26,6 +26,7 @@
 	"remoteUser": "vscode",
 	"features": {
 		"ghcr.io/devcontainers/features/terraform:1": {},
-		"ghcr.io/devcontainers-contrib/features/tfswitch:1": {}
+		"ghcr.io/devcontainers-contrib/features/tfswitch:1": {},
+		"ghcr.io/devcontainers/features/azure-cli:1": {}
 	}
 }
